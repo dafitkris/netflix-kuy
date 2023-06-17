@@ -1,0 +1,92 @@
+{
+    "series": [
+        {
+            "foto": "images/bahanfit/foto1.jpg",
+            "nama": "Stranger Things",
+            "size": "Season 4",
+            "harga": "300.000",
+            "link": "https://www.google.com/search?q=stranger+things&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto2.jpg",
+            "nama": "The Witcher",
+            "size": "Season 2",
+            "harga": "320.000",
+            "link": "https://www.google.com/search?q=the+witcher&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto3.jpg",
+            "nama": "Annihilation",
+            "size": "Season 1",
+            "harga": "250.000",
+            "link": "https://www.google.com/search?q=annihilation&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto4.jpg",
+            "nama": "The Last Of Us",
+            "size": "Season 1",
+            "harga": "280.000",
+            "link": "https://www.google.com/search?q=the+last+of+us&tbm=shop"
+        }
+    ],
+    "movie": [
+        {
+            "foto": "images/bahanfit/foto1-1.jpg",
+            "nama": "Justice League",
+            "size": "Movie",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=justice+league&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto2-2.jpg",
+            "nama": "Us",
+            "size": "Movie",
+            "harga": "210.000",
+            "link": "https://www.google.com/search?q=us&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto 3-3.jpg",
+            "nama": "Pirates of Caribbean",
+            "size": "Movie",
+            "harga": "280.000",
+            "link": "https://www.google.com/search?q=pirates+of+caribbean&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/inception-poster.jpg",
+            "nama": "Inception",
+            "size": "Movie",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=inception&tbm=shop"
+        }
+    ],
+    "anime": [
+        {
+            "foto": "images/bahanfit/foto1-1-1.jpg",
+            "nama": "Naruto",
+            "size": "Ongoing Episode",
+            "harga": "1.200.000",
+            "link": "https://www.google.com/search?q=Naruto&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto2-2-2.jpg",
+            "nama": "Soul Eater",
+            "size": "Full Episode",
+            "harga": "1.500.000",
+            "link": "https://www.google.com/search?q=soul+eater&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto3-3-3.jpg",
+            "nama": "One Punch Man",
+            "size": "Ongoing Episode",
+            "harga": "1.300.000",
+            "link": "https://www.google.com/search?q=one+punch+man&tbm=shop"
+        },
+        {
+            "foto": "images/bahanfit/foto4-4-4.jpg",
+            "nama": "Gintama",
+            "size": "Ongoing Episode",
+            "harga": "1.050.000",
+            "link": "https://www.google.com/search?q=gintama&tbm=shop"
+        }
+    ]
+}
